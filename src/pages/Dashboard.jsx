@@ -390,7 +390,7 @@ export default function Dashboard() {
 				</div>
 
 				{/* Monthly Revenue Chart */}
-				<div className='bg-white p-6 rounded-2xl shadow-xl mt-8'>
+				<div className='bg-white py-6 px-2 rounded-2xl shadow-xl mt-8'>
 					<h2 className='text-2xl font-bold text-gray-800 mb-4'>
 						Monthly Revenue Overview
 					</h2>
