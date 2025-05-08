@@ -121,7 +121,7 @@ export default function Renovations() {
 			</form>
 
 			{/* Renovation List */}
-			<div className='overflow-x-auto rounded-2xl shadow-2xl mx-auto text-center'>
+			<div className='overflow-x-auto rounded-2xl shadow-2xl mx-auto justify-center  text-center'>
 				<table className='min-w-full bg-white border-separate border-spacing-y-2'>
 					<thead className='bg-gradient-to-r from-slate-100 to-slate-200 text-slate-700 uppercase text-sm tracking-wide'>
 						<tr>
