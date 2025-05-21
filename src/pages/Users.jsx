@@ -235,7 +235,7 @@ export default function Owners() {
 															<span>SAR{p.amount}</span>
 															<span
 																className={
-																	p.paid ? 'text-green-600' : 'text-red-600'
+																	p.paid ? 'text-green-600 text-[0.35rem]' : 'text-red-600'
 																}>
 																{p.paid ? '✅' : '❌'}
 															</span>
